@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-09rpxn.planetjp.online/sitemap.xml
